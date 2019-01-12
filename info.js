@@ -7,7 +7,10 @@ var WebmasterInfo = [['Chair Name','Karen Bograd'],
                      ['Scoutmaster Phone','(617) 909-9959'],
                      ['SPL Name','Aditya Kaushik'],
                      ['SPL Email','spl@troop1hopkinton.org'],
-                     ['Webmaster Name','Daniel C-H']];
+                     ['Webmaster Name','Daniel C-H'],
+                     
+                     ['Assistant Scoutmasters','Mike Dionne, Tim Ritterbusch, Rich Pratt, Mac Rangwala, Naren Patel, Andy Lee']
+                    ];
 localStorage.setItem('DevInfo',WebmasterInfo);
 
 var troopTags = document.getElementsByTagName('samp');
