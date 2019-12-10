@@ -6,7 +6,7 @@ var WebmasterInfo = [['Chair Name','Karen Bograd'],
                      ['Scoutmaster Email','<a href="mailto:scoutmaster@troop1hopkinton.org">scoutmaster@troop1hopkinton.org</a>'],
                      ['Scoutmaster Phone','(617) 909-9959'],
                      ['SPL Name','Aidan Chen'],
-                     ['SPL Email','adityakaushik314@gmail.com'],
+                     ['SPL Email','bmekala8@gmail.com'],
                      ['Webmaster Name','Bharat'],
                      
                      ['Assistant Scoutmasters','Mike Dionne, Tim Ritterbusch, Rich Pratt, Mac Rangwala, Naren Patel, Andy Lee']
